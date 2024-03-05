@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=latoyaln.latoyaln" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&center=true&vCenter=true&width=500&height=70&color=black&duration=3000&lines=Hi+There!+👋;+I'm+Latoya!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&color=000&lines=Hi+There!+👋;+I'm+Latoya!;" />
 </h1>
 
 <h3 align="center">A passionate frontend developer</h3>
@@ -9,14 +9,13 @@
 <br/>
 
 <div align="center">
- 
  🔭 I’m currently working on **School projects**
  
  🌱 I’m currently learning **NODE JS, React Native**
 
 💬 Ask me about **Node.js, React, HTML/CSS or anything [here](https://github.com/latoyaln/latoyaln/issues)**
 
-⚡ Fun fact **I Studied Graphic Design**
+⚡ Fun fact **I studied Graphic Design**
 
  </div>
  
@@ -31,14 +30,12 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+<h2 align="center">Languages, Frameworks and Tools</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,c#,react,git,express" />
-    <img src="https://skillicons.dev/icons?i=figma,illustrator,indesign,photoshop,mysql,mariadb" /><br>
+    <img src="https://skillicons.dev/icons?i=figma,illustrator,photoshop,mysql,mariadb" /><br>
 </div>
 
-<br/>
 <hr/>
 
 <div align="center">
